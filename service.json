@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "price": 105.00,
+    "image": "../public/images/image.1.jpg",
+    "description": "A classic novel of the Jazz Age.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "price": 160.00,
+    "image": "../public/images/image.2.png",
+    "description": "A novel about totalitarian surveillance and control.",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fiction",
+    "price": 129.00,
+    "image": "../public/images/img.3.jpg",
+    "description": "A novel about all the choices that go into a life well lived.",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "price": 145.00,
+    "image": "../public/images/image.4.jpeg",
+    "description": "A memoir about a woman who escapes her survivalist family and goes on to earn a PhD",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "price": 175.00,
+    "image": "../public/images/image.5.jpg",
+    "description": "A guide to building good habits and breaking bad ones.",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "price": 133.00,
+    "image": "../public/images/image.6.webp",
+    "description": "A psychological thriller about a woman’s act of violence against her husband—and the therapist obsessed with uncovering why.",
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "price": 165.00,
+    "image": "../public/images/image.7.jpg",
+    "description": "A brief history of humankind, from the Stone Age to the modern age.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "price": 199.00,
+    "image": "../public/images/image.8.jpg",
+    "description": "A philosophical story about a shepherd's journey to fulfill his destiny.",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-help",
+    "price": 215.00,
+    "image": "../public/images/image.9.jpg",
+    "description": "A counterintuitive approach to living a good life, focusing on what truly matters.",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "title": "Ikigai",
+    "author": "Héctor García and Francesc Miralles",
+    "genre": "Self-help",
+    "price": 180.00,
+    "image": "../public/images/image.10.jpg",
+    "description": "The Japanese secret to a long and happy life.",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "Personal Finance",
+    "price": 190.00,
+    "image": "../public/images/image.11.jpg",
+    "description": "A personal finance classic contrasting two perspectives on money, investing, and wealth-building.",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Personal Finance",
+    "price": 210.00,
+    "image": "../public/images/image.12.jpg",
+    "description": "Timeless lessons on wealth, greed, and happiness—how people think about money and make financial decisions.",
+    "rating": 4.8
+  }
+]
