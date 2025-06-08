@@ -5,7 +5,7 @@
     "author": "F. Scott Fitzgerald",
     "genre": "Fiction",
     "price": 105.00,
-    "image": "/images/image.1.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385361/image.1_cjns9p.jpg",
     "description": "A classic novel of the Jazz Age.",
     "rating": 4.5
   },
@@ -15,7 +15,7 @@
     "author": "George Orwell",
     "genre": "Dystopian",
     "price": 160.00,
-    "image": "/images/image.2.png",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385359/image.2_exbllo.png",
     "description": "A novel about totalitarian surveillance and control.",
     "rating": 4.7
   },
@@ -25,7 +25,7 @@
     "author": "Matt Haig",
     "genre": "Fiction",
     "price": 129.00,
-    "image": "/images/img.3.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385360/img.3_v32iuk.jpg",
     "description": "A novel about all the choices that go into a life well lived.",
     "rating": 4.2
   },
@@ -35,7 +35,7 @@
     "author": "Tara Westover",
     "genre": "Memoir",
     "price": 145.00,
-    "image": "/images/image.4.jpeg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385362/image.4_wbgtvt.jpg",
     "description": "A memoir about a woman who escapes her survivalist family and goes on to earn a PhD",
     "rating": 4.7
   },
@@ -45,7 +45,7 @@
     "author": "James Clear",
     "genre": "Self-help",
     "price": 175.00,
-    "image": "/images/image.5.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385362/image.5_fffzpq.jpg",
     "description": "A guide to building good habits and breaking bad ones.",
     "rating": 4.8
   },
@@ -55,7 +55,7 @@
     "author": "Alex Michaelides",
     "genre": "Thriller",
     "price": 133.00,
-    "image": "/images/image.6.webp",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385363/image.6_rwwxdz.webp",
     "description": "A psychological thriller about a woman’s act of violence against her husband—and the therapist obsessed with uncovering why.",
     "rating": 4.1
   },
@@ -65,7 +65,7 @@
     "author": "Yuval Noah Harari",
     "genre": "History",
     "price": 165.00,
-    "image": "/images/image.7.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385364/image.7_yfdakl.jpg",
     "description": "A brief history of humankind, from the Stone Age to the modern age.",
     "rating": 4.6
   },
@@ -75,7 +75,7 @@
     "author": "Paulo Coelho",
     "genre": "Fiction",
     "price": 199.00,
-    "image": "/images/image.8.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385364/image.8_ulajqp.jpg",
     "description": "A philosophical story about a shepherd's journey to fulfill his destiny.",
     "rating": 4.7
   },
@@ -85,7 +85,7 @@
     "author": "Mark Manson",
     "genre": "Self-help",
     "price": 215.00,
-    "image": "/images/image.9.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385365/image.9_tpr1mp.jpg",
     "description": "A counterintuitive approach to living a good life, focusing on what truly matters.",
     "rating": 4.5
   },
@@ -95,7 +95,7 @@
     "author": "Héctor García and Francesc Miralles",
     "genre": "Self-help",
     "price": 180.00,
-    "image": "/images/image.10.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385366/image.10_ep45cb.jpg",
     "description": "The Japanese secret to a long and happy life.",
     "rating": 4.6
   },
@@ -105,7 +105,7 @@
     "author": "Robert T. Kiyosaki",
     "genre": "Personal Finance",
     "price": 190.00,
-    "image": "/images/image.11.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385366/image.11_ibyw8p.jpg",
     "description": "A personal finance classic contrasting two perspectives on money, investing, and wealth-building.",
     "rating": 4.7
   },
@@ -115,7 +115,7 @@
     "author": "Morgan Housel",
     "genre": "Personal Finance",
     "price": 210.00,
-    "image": "/images/image.12.jpg",
+    "image": "https://res.cloudinary.com/dn20rylkz/image/upload/v1749385357/image.12_xbgtcu.jpg",
     "description": "Timeless lessons on wealth, greed, and happiness—how people think about money and make financial decisions.",
     "rating": 4.8
   }
